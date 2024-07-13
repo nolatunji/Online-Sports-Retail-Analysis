@@ -7,9 +7,6 @@
 ## Introduction
 Utilized SQL to analyze the product data for an online retail sports company. The goal is to look at the company's product reviews, product descriptions, website traffic, and current revenue in order to discover trends that can be used to increase future revenues. Based on the analysis recommendations will be made to the sales and marketing teams.
 
-## Objectives
-Clear list of what the project aimed to achieve.
-
 ## Technologies Used
 - SQL (PostgreSQL)
 
@@ -54,12 +51,11 @@ Description of the database and tables used.
   
 These findings suggest opportunities for targeted pricing strategies, enhanced review systems, and potential inventory rebalancing to optimize revenue.
 
-
 ## Future Work
-Suggestions for further analysis or improvements.
 
-## How to Run
-Instructions for running the SQL queries.
+Future work for this project could expand in several directions to provide deeper insights and more actionable strategies. This includes conducting seasonality analysis to optimize inventory and promotions, implementing customer segmentation and predictive modeling for targeted marketing, and performing sentiment analysis on reviews. 
+
+Additional areas of exploration could involve identifying cross-selling opportunities, examining geographical variations in product performance, and benchmarking against competitors. Developing a framework for A/B testing pricing strategies and creating a dynamic pricing model could further optimize revenue. Finally, constructing an interactive dashboard would allow for real-time monitoring of key performance indicators, enhancing the company's ability to make data-driven decisions quickly and effectively.
 
 ## Conclusion
 Summary of project impact and personal learnings.
