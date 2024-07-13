@@ -13,8 +13,24 @@ Clear list of what the project aimed to achieve.
 Description of the database and tables used.
 
 ## Methodology
-Outline of your analytical approach.
+1. Data Exploration:
+   - Assessed data completeness across tables
+   - Identified key variables for analysis (pricing, reviews, product descriptions, brand)
 
+2. Comparative Analysis:
+   - Compared pricing strategies between Nike and Adidas
+   - Analyzed revenue generation across different price categories
+
+3. Discount Analysis:
+   - Calculated and compared average discounts by brand
+
+4. Correlation Studies:
+   - Examined the relationship between revenue and number of reviews
+
+5. Advanced SQL Techniques:
+   - Utilized joins, subqueries, window functions, and CTEs for complex analyses
+   - Employed aggregation functions and conditional logic for detailed insights
+     
 ## Key Findings
 1. Brand Performance:
    - Adidas products generate more total revenue than Nike across all price categories.
@@ -28,20 +44,12 @@ Outline of your analytical approach.
    - Strong positive correlation (0.65) between the number of reviews and revenue.
    - Highest volume of reviews occurs in the first quarter of the year.
 
-4. Product Description:
-   - No clear pattern between product description length and product rating.
-
-5. Product Categories:
+4. Product Categories:
    - Footwear products account for approximately 85% of the company's stock.
    - Median revenue for footwear ($3,118.36) significantly higher than for clothing ($503.82).
-
-6. Seasonal Trends:
-   - Review volume varies by month, with potential for increasing reviews in non-peak months.
-
+  
 These findings suggest opportunities for targeted pricing strategies, enhanced review systems, and potential inventory rebalancing to optimize revenue.
 
-## Challenges and Solutions
-Brief discussion of any obstacles encountered.
 
 ## Future Work
 Suggestions for further analysis or improvements.
