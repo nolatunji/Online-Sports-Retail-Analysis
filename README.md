@@ -1,4 +1,8 @@
+
 # Online-Sports-Retail-Analysis
+
+![image](https://github.com/user-attachments/assets/9760a019-c09d-47d4-b4a9-4989359e80f4)
+
 
 ## Introduction
 Utilized SQL to analyze the product data for an online retail sports company. The goal is to look at the company's product reviews, product descriptions, website traffic, and current revenue in order to discover trends that can be used to increase future revenues. Based on the analysis recommendations will be made to the sales and marketing teams.
