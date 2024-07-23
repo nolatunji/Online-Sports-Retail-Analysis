@@ -10,9 +10,6 @@ Utilized SQL to analyze the product data for an online retail sports company. Th
 ## Technologies Used
 - SQL (PostgreSQL)
 
-## Data Overview
-Description of the database and tables used.
-
 ## Methodology
 1. Data Exploration:
    - Assessed data completeness across tables
@@ -57,5 +54,3 @@ Future work for this project could expand in several directions to provide deepe
 
 Additional areas of exploration could involve identifying cross-selling opportunities, examining geographical variations in product performance, and benchmarking against competitors. Developing a framework for A/B testing pricing strategies and creating a dynamic pricing model could further optimize revenue. Finally, constructing an interactive dashboard would allow for real-time monitoring of key performance indicators, enhancing the company's ability to make data-driven decisions quickly and effectively.
 
-## Conclusion
-Summary of project impact and personal learnings.
